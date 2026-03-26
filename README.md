@@ -19,6 +19,7 @@ job-portal/frontend/backend/
 ## Setup Instructions
 ### 1. Clone the repository
 git clone
+https://github.com/Kalarusrivaishnavi/job-portal-fullstack.git
 
 
 ### 2. Install dependencies
